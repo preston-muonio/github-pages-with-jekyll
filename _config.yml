@@ -2,12 +2,7 @@ title: The-First-Blog
 author: Preston Muonio
 email: preston.muonio@gmail.com
 theme: minima
-description: > # this means to ignore newlines until "baseurl:"
+description: 
   I'm learning how to use github! This is a fun new tool for me. Right now im learning how to use GitHub pages.
   It is a tool for creating websites to showcase your proggress very easily! 
 
-# social links
-twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
-github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
-
-show_excerpts: true # set to false to remove excerpts on the homepage
