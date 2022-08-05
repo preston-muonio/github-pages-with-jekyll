@@ -2,4 +2,4 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Hi, this is my GitHub page! I am learning about Git Hub right now, following a tutorial and having lots of fun!
